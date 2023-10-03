@@ -1,2 +1,2 @@
-Utility function for the version one of the software
+Utility function for the version two of the software
 
