@@ -1,4 +1,0 @@
-This is the version two of my software in github
-
-Welcome to day 2 of the git learning session
-Here are few changes for the tutorial

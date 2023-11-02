@@ -1,3 +1,0 @@
-Utility function for the version three of the software
-Final version of the software 
-
